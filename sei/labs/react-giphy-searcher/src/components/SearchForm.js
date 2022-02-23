@@ -2,6 +2,9 @@ import React from "react";
 
 export default function SearchForm(){
     return(
-        <div>Hello from SearchForm</div>
+        <form className="form-horizontal">
+            <input placeholder="Search" type="text" name="searchString" required />
+            <button type="submit">Submit</button>
+        </form>
     );
 }
