@@ -1,0 +1,50 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+
+}
+
+#nav {
+
+
+}
+#complaints {
+
+}
+
+/* === BUROUGH BUTTONS === */
+
+.burough {
+    color: white;
+    background-color: darkblue;
+}
+
+#brooklyn {
+
+}
+
+#manhattan {
+
+}
+
+#queens {
+
+}
+
+#brox {
+
+}
+
+#statenIsland {
+
+}
+#list {
+
+}
+#complaint {
+    background-color: red;
+    margin-right: 10px;
+    padding-right: 10px;
+}
